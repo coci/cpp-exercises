@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  hello.cpp
 //  hello
 //
 //  Created by soroush safari on 5/2/20.
@@ -8,8 +8,7 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    std::cout << "hello, world" << std::endl;
     return 0;
 }
